@@ -108,8 +108,8 @@ export const projects = [
   {
     id: nanoid(),
     img: portfolioImg,
-    url: 'https://react-projects.netlify.app/',
-    github: 'https://github.com/john-smilga',
+    url: 'https://seyfi-nacafli.vercel.app/',
+    github: 'https://github.com/coderseyfi/tailwind-portfolio',
     title: 'Personal Portfolio',
     // text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
   },
