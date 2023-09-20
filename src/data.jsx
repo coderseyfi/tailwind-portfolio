@@ -92,7 +92,7 @@ export const projects = [
   {
     id: nanoid(),
     img: jobify,
-    url: 'https://jobgenius.netlify.app/',
+    url: 'https://seyfi-najafli.vercel.app/landing',
     github: 'https://github.com/coderseyfi/react-jobGenius-project',
     title: 'JobGenius',
     // text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
