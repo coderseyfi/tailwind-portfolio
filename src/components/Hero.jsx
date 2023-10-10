@@ -13,7 +13,7 @@ const Hero = () => {
     'Through constant practice & learning, I produce aesthetic software to an extremely high standard'
 
   return (
-    <div className="bg-emerald-100 py-24">
+    <div className="bg-emerald-100 py-36">
       <div className="align-element grid md:grid-cols-2 items-center gap-8">
         <article>
           <h1 className="text-3xl md:text-5xl mx-auto ">
